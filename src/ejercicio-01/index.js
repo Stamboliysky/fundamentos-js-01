@@ -22,8 +22,8 @@ const divicion = num1 / num2
 console.log (mensaje)
 console.log (`Suma :`,suma)
 console.log (' Resta',resta)
-console.log ('multiplicacion')
-console.log ('Division')
+console.log ('multiplicacion',multiplicacion:)
+console.log ('Division',divicion)
 
 
 
