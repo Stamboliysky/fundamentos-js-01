@@ -8,7 +8,7 @@ console.log
 } 
 //3.
 const dia = 3
-// 4 .
+// 4 . no me queda claro.
 switch (dia) {
     case 1:
         console.log
