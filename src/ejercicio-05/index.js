@@ -12,20 +12,20 @@ switch (mes) {
     case 3:
     case 4:
     case 5:
-    console.log('Primavera')
+    console.log(' Primavera ')
     break
     case 6:
     case 7:
     case 8:
-      console.log('Verano')
+      console.log(' Verano ')
       break
     case 9:
     case 10:
     case 11:
-      console.log('Otoño')
+      console.log(' Otoño ')
     break
 default:
-    console.log('Mes invalido')
+    console.log(' Mes invalido ')
         break;
 }
 
@@ -47,4 +47,4 @@ function calcularDiaMes(mes) {
 
 //Utiliza la funcion calcularDiaMes.
 const mesEspecifico = 4
-console.log('El mes  '+mesEspecifico + 'tiene' + mesEspecifico + calcularDiaMes(mesEspecifico) +  'dias')
+console.log('El mes  '+ mesEspecifico + ' tiene '  + calcularDiaMes ( mesEspecifico ) +  ' dias ')
